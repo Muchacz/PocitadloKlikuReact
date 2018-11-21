@@ -1,2 +1,0 @@
-# PocitadloKlikuReact
-Created with CodeSandbox
